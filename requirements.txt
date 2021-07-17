@@ -1,9 +1,5 @@
 numpy==1.19.5
 pandas 
-pandas-datareader==0.9.0
-pandas-profiling==2.9.0
-pandasgui==0.2.7
-pandocfilters @ file:///opt/concourse/worker/volumes/live/c330e404-216d-466b-5327-8ce8fe854d3a/volume/pandocfilters_1605120442288/work
 scikit-image==0.17.2
 scikit-learn @ file:///opt/concourse/worker/volumes/live/111833a2-339b-4578-413b-7337bb8fe64a/volume/scikit-learn_1598376920601/work
 scikit-plot==0.3.7
