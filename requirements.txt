@@ -1,5 +1,5 @@
 numpy==1.19.5
-pandas @ file:///opt/concourse/worker/volumes/live/f14cf8c4-c564-4eff-4b17-158e90dbf88a/volume/pandas_1602088128240/work
+pandas 
 pandas-datareader==0.9.0
 pandas-profiling==2.9.0
 pandasgui==0.2.7
